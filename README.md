@@ -5,6 +5,7 @@ This resource was produced as part of the 2024 [NCEAS Environmental Data Science
 ## How can I help?
 This document is designed to be ever-evolving. Feel free to create a PR to add to this document if you know of any additional resources. This document relies on people with a variety of backgrounds contributing their knowledge. If you have any questions about how to do this, feel free to email nastassiabot@gmail.com.
 
+![deer](https://images.rawpixel.com/image_png_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8xMF9iYWJ5X2RlZXJfZnVsbF9ib2R5X3NpbXBsZV93YXRlcmNvbG9yX2lsbHVzdF84NTQ4ZTcxZC01OWQzLTQyNmEtOGI5MC0wNjliY2JlNjU4MjgucG5n.png)
 ---
 
 ## Stage 1: Pre-research
