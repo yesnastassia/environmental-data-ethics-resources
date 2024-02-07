@@ -105,14 +105,12 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
   
 [Open Source Initiative Licenses](https://opensource.org/licenses/)-- open software licensing
 
-#### Storage, Management, Longevity
-* How much/what type of security is necessary to secure the data?
-
 #### Impacts
 * Beyond the impacts on individual stakeholder lives, are there broader harms to society that could result from the widespread use of this research?
 * Are there similar data available already? How is it shared?
 
 #### Sharing Security Concerns
+* How much/what type of security is necessary to secure the data?
 * Do we need to anonymize the data before sharing?
 * Does the scale need to be changed to share the data?
 * Can you allow queries without making all the data available?
