@@ -40,6 +40,8 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 
 **Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d) provides some interdisciplinary food for thought
 
+[Environmental Justice Screening Tool](https://screeningtool.geoplatform.gov/en/)
+
 #### Sharing Motives
 * Who owns this data “legally”? / “ethically”?
   * How do you plan to determine this?
@@ -122,7 +124,7 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * What kinds of analysis are allowed with the data?
 * What kind of visualizations can be made to help users understand and/or preview the data?
 
-**Resources**: [White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
+**Resources**: [White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)-- includes information about disaggregation
 
 ---
 
