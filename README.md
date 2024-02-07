@@ -38,6 +38,8 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * Who can do something about the problem related to this data?
 * Is there a power imbalance between stakeholders?
 
+**Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d) provides some interdisciplinary food for thought
+
 #### Sharing Motives
 * Who owns this data “legally”? / “ethically”?
   * How do you plan to determine this?
@@ -58,18 +60,92 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 
 **Resources**: [USFS Research Data Archive](https://www.fs.usda.gov/rds/archive/submittingData)-- managed repository for any data collected with USFS funding or on USFS land
 
+---
+
 ### Stage 2: During Research
 
+#### Data Created in Research
+* Who owns this new data “legally”? / “ethically”?
+* At what scale does the data exist?
+
+#### Reassessing Potential Risk and Benefit
+* What are the potential impacts of sharing the data? 
+  * If so, how do they vary between stakeholder groups?
+* Who stands to benefit from this data?
+  * In what ways?
+* Who might experience harm/loss from this data?
+  * If so, what is the nature of this loss/harm?
+  * Are there any mitigation strategies (see sections about anonymization/rescaling)
+* Does this data potentially affect fiscal burdens (insurance/property value)? 
+  * Is it on individuals or businesses?
+  * Are there ways to anonymize/de-identify specific personal information?
+
+#### Power and Politics
+* Have new political concerns surfaced in the research process?
+
+**Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d)
+
+---
+
+### Stage 3: Before Data Publication
+
+#### Technical Components of Accessibility
+* In what formats is the data available and how does this affect accessibility?
+* What are the conditions of access of the data?
+  * Does accessing your data require any paid software or subscriptions?
+* Are we also sharing our process/code, if applicable?
+
+**Resources**: [STAC Framework](https://stacspec.org/en)-- open geospatial metadata standard especially useful for making high-dimensional or nested data more accessible/queryable
+[OGC Standards](https://www.ogc.org/standards/)-- well-established FAIR data standards for geospatial data including metadata, encoding, etc
+[Open Source Initiative Licenses](https://opensource.org/licenses/)-- open software licensing
+
+#### Storage, Management, Longevity
+* How much/what type of security is necessary to secure the data?
+
+#### Impacts
+* Beyond the impacts on individual stakeholder lives, are there broader harms to society that could result from the widespread use of this research?
+* Are there similar data available already? How is it shared?
+
+#### Sharing Security Concerns
+* Do we need to anonymize the data before sharing?
+* Does the scale need to be changed to share the data?
+* Can you allow queries without making all the data available?
+
+#### Data Communication Concerns
+* Are there risks of misinterpretation? or “overreaction”/ negative social consequences?
+  * If so, how can you anticipate and prepare for these risks? Can you make a contingency plan for sharing?
+* How can we disaggregate data to communicate social justice issues, if our research involves different populations of people?
+* What kinds of analysis are allowed with the data?
+* What kind of visualizations can be made to help users understand and/or preview the data?
+
+**Resources**: [White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
 
 ---
 
 ## General Resources
+* [The GIS Professional Ethics Project: Practical Ethics Education for GIS Pros](https://www.e-education.psu.edu/sites/default/files/ethics/DiBiase_et_al_GIS_Pro_Ethics_ICC2009.pdf)
+  * Features several case studies relevant to the ethical principles outlined, dozens of further references included as well
+  * [Case studies](https://sites.psu.edu/gisethics/project-description/)
+* [Reflecting Sunlight: Recommendations for Solar Geoengineering Research and Research Governance](https://nap.nationalacademies.org/read/25762/chapter/5)
+  * An entire book about research governance, with some applicability to data sharing specifically
+* [American Association of Geographers (AAG) ethics initiative](https://www.aag.org/program/ethics-and-aag/)
+* [International Cartographic Association (ICA) ethics conference and initiative](https://icaci.org/announcing-autocarto-2022-ethics-in-mapping)
+  * Also contact Aileen Buckley at Esri, abuckley@esri.com
+* [White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
+* [Climate and Environmental Justice Screeing tool](https://screeningtool.geoplatform.gov/en/#3/33.47/-97.5)
+* [EJ Screen](https://ejscreen.epa.gov/mapper/)
+* [Data Science Ethics: Case Studies on Medium](https://samiwurm.medium.com/data-science-ethics-case-studies-988cbbc6af84)
+* [Mapping for accessibility: A case study of ethics in data science for social good](https://arxiv.org/ftp/arxiv/papers/1710/1710.06882.pdf)
 
 ---
 
 ## Contributors
-Sarah Buckingham (she/her) sbuckingham217@gmail.com
-Alex Powell (he/him)
-Emelia Williams (she/they) emelia@openenvironmentaldata.org
-Nastassia Barber (they/them) nastassiabot@gmail.com
-Beatriz Milz (she/her)
+### Authors
+* Sarah Buckingham (she/her) sbuckingham217@gmail.com
+* Alex Powell (he/him)
+* Emelia Williams (she/they) emelia@openenvironmentaldata.org
+* Nastassia Barber (they/them) nastassiabot@gmail.com
+* Beatriz Milz (she/her)
+
+### Additional Resource Contributors
+Dawn Wright
