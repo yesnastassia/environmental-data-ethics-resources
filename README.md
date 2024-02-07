@@ -7,16 +7,26 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 
 ---
 
-## Questions
+## Stage 1: Pre-research
 
-### Stage 1: Pre-research
+### Why share?
+* Who could also make use of this data?
+  * Could it be reused in other research projects?
+  * Could it be useful or informative to the general public?
+* Do stakeholders want this data to be shared?
+  * Why or why not? 
 
-#### Accountability
+### Accountability
+* Who owns this data “legally”? / “ethically”?
+  * How do you plan to determine this?
 * What intention are you going into research with?
 * What community/stakeholders are affected by this research/data sharing?
 * What social governance systems are already in place in this community?
 
-#### Assessing Risk
+#### Resources:
+[Data Governance Institute Data Ownership](https://datagovernance.com/assigning-data-ownership/)
+
+### Assessing Risk
 * Is there any personal information in this data?
   * If so, what level of anonymization or de-identification is needed
     * Is that possible with the type of data in consideration?
@@ -24,53 +34,49 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * What kind of risk mitigation measures are already in place?
 * What tools/risk assessments can be used to assess risk opportunity impact?
 
-**Resources**: [Microsoft Data Ethics](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/02-ethics/README.md)-- info about privacy, informed consent, right to be forgotten, and other concerns
+#### Resources:
+[Microsoft Data Ethics](https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/02-ethics/README.md)-- info about privacy, informed consent, right to be forgotten, and other concerns
 
-#### Funding
+### Funding
 * Does the funding of the research require data to be open?
 * Are there any costs to making data available? 
 * Are there any costs to making access conditional?
 
-#### Power and politics
+### Power and politics
 * What is the political landscape of the area of research?
 * Does this data span legislative boundaries?
   * If so, which ones? How does this affect the research and/or data sharing?
 * Are there especially vulnerable communities involved in/affected by the data?
 * Is there a power imbalance between stakeholders?
 
-**Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d)-- provides some interdisciplinary food for thought
+#### Resources:
+[American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d)-- provides some interdisciplinary food for thought
 
 [EJ Screen](https://ejscreen.epa.gov/mapper/)-- includes information about many demographic and environmental factors
 
-#### Sharing Motives
-* Who owns this data “legally”? / “ethically”?
-  * How do you plan to determine this?
-* Do stakeholders want this data to be shared?
-* Why do people want this data to be shared? 
-
-**Resources**: [Data Governance Institute Data Ownership](https://datagovernance.com/assigning-data-ownership/)
-
-#### Indigenous Data 
+### Indigenous Data 
 * Does indigenous land sovereignty play a role in sharing this data?
 
-**Resources**: [Indigenous Peoples' Specialty Group Ethics Statement (AAG)](https://sites.evergreen.edu/zoltan/wp-content/uploads/sites/358/2023/09/IPSGResearchEthicsFinal.pdf)
+#### Resources:
+[Indigenous Peoples' Specialty Group Ethics Statement (AAG)](https://sites.evergreen.edu/zoltan/wp-content/uploads/sites/358/2023/09/IPSGResearchEthicsFinal.pdf)
 
-#### Data Storage and Management
+### Data Storage and Management
 * How long should the data be kept?
 * Where data will be housed/how will it be made available? 
 * Will that change over time? Is it funding dependent?
 
-**Resources**: [USFS Research Data Archive](https://www.fs.usda.gov/rds/archive/submittingData)-- managed repository for any data collected with USFS funding or on USFS land
+#### Resources:
+[USFS Research Data Archive](https://www.fs.usda.gov/rds/archive/submittingData)-- managed repository for any data collected with USFS funding or on USFS land
 
 ---
 
-### Stage 2: During Research
+## Stage 2: During Research
 
-#### Data Created in Research
+### Data Created in Research
 * Who owns this new data “legally”? / “ethically”?
 * At what scale does the data exist?
 
-#### Reassessing Potential Risk and Benefit
+### Reassessing Potential Risk and Benefit
 * What are the potential impacts of sharing the data? 
   * If so, how do they vary between stakeholder groups?
 * Who stands to benefit from this data?
@@ -82,22 +88,23 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
   * Is it on individuals or businesses?
   * Are there ways to anonymize/de-identify specific personal information?
 
-#### Power and Politics
+### Power and Politics
 * Have new political concerns surfaced in the research process?
 
-**Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d)
+#### Resources:
+[American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d)
 
 ---
 
-### Stage 3: Before Data Publication
+## Stage 3: Before Data Publication
 
-#### Technical Components of Accessibility
+### Technical Components of Accessibility
 * In what formats is the data available and how does this affect accessibility?
 * What are the conditions of access of the data?
   * Does accessing your data require any paid software or subscriptions?
 * Are we also sharing our process/code, if applicable?
 
-**Resources**:
+#### Resources:
 
 [STAC Framework](https://stacspec.org/en)-- open geospatial metadata standard especially useful for making high-dimensional or nested data more accessible/queryable
   
@@ -105,24 +112,25 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
   
 [Open Source Initiative Licenses](https://opensource.org/licenses/)-- open software licensing
 
-#### Impacts
+### Impacts
 * Beyond the impacts on individual stakeholder lives, are there broader harms to society that could result from the widespread use of this research?
 * Are there similar data available already? How is it shared?
 
-#### Sharing Security Concerns
+### Sharing Security Concerns
 * How much/what type of security is necessary to secure the data?
 * Do we need to anonymize the data before sharing?
 * Does the scale need to be changed to share the data?
 * Can you allow queries without making all the data available?
 
-#### Data Communication Concerns
+### Data Communication Concerns
 * Are there risks of misinterpretation? or “overreaction”/ negative social consequences?
   * If so, how can you anticipate and prepare for these risks? Can you make a contingency plan for sharing?
 * How can we disaggregate data to communicate social justice issues, if our research involves different populations of people?
 * What kinds of analysis are allowed with the data?
 * What kind of visualizations can be made to help users understand and/or preview the data?
 
-**Resources**: [White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)-- includes information about disaggregation
+#### Resources:
+[White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)-- includes information about disaggregation
 
 ---
 
