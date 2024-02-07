@@ -35,12 +35,12 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * What is the political landscape of the area of research?
 * Does this data span legislative boundaries?
   * If so, which ones? How does this affect the research and/or data sharing?
-* Who can do something about the problem related to this data?
+* Are there especially vulnerable communities involved in/affected by the data?
 * Is there a power imbalance between stakeholders?
 
-**Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d) provides some interdisciplinary food for thought
+**Resources**: [American Political Science Association Ethics Guide](https://www.apsanet.org/Portals/54/diversity%20and%20inclusion%20prgms/Ethics/APSA-Ethics-Guide-Updated-May2023.pdf?ver=MVFh4bbveoaHD0uP568mig%3d%3d)-- provides some interdisciplinary food for thought
 
-[Environmental Justice Screening Tool](https://screeningtool.geoplatform.gov/en/)
+[EJ Screen](https://ejscreen.epa.gov/mapper/)-- includes information about many demographic and environmental factors
 
 #### Sharing Motives
 * Who owns this data “legally”? / “ethically”?
@@ -140,6 +140,7 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * [White House Vision for Equitable Data](https://www.whitehouse.gov/wp-content/uploads/2022/04/eo13985-vision-for-equitable-data.pdf)
 * [Climate and Environmental Justice Screeing tool](https://screeningtool.geoplatform.gov/en/#3/33.47/-97.5)
 * [EJ Screen](https://ejscreen.epa.gov/mapper/)
+  * Includes data about pollution, demographics, and other factors that inform communities' risk 
 * [Data Science Ethics: Case Studies on Medium](https://samiwurm.medium.com/data-science-ethics-case-studies-988cbbc6af84)
 * [Mapping for accessibility: A case study of ethics in data science for social good](https://arxiv.org/ftp/arxiv/papers/1710/1710.06882.pdf)
 
