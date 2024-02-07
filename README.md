@@ -95,8 +95,12 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
   * Does accessing your data require any paid software or subscriptions?
 * Are we also sharing our process/code, if applicable?
 
-**Resources**: [STAC Framework](https://stacspec.org/en)-- open geospatial metadata standard especially useful for making high-dimensional or nested data more accessible/queryable
+**Resources**:
+
+[STAC Framework](https://stacspec.org/en)-- open geospatial metadata standard especially useful for making high-dimensional or nested data more accessible/queryable
+  
 [OGC Standards](https://www.ogc.org/standards/)-- well-established FAIR data standards for geospatial data including metadata, encoding, etc
+  
 [Open Source Initiative Licenses](https://opensource.org/licenses/)-- open software licensing
 
 #### Storage, Management, Longevity
