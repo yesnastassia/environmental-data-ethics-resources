@@ -13,6 +13,7 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * Who could also make use of this data?
   * Could it be reused in other research projects?
   * Could it be useful or informative to the general public?
+* Does sharing the data help people understand my research? 
 * Do stakeholders want this data to be shared?
   * Why or why not? 
 
