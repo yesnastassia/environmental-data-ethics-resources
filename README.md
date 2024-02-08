@@ -33,7 +33,7 @@ This document is designed to be ever-evolving. Feel free to create a PR to add t
 * Is there any personal information in this data?
   * If so, what level of anonymization or de-identification is needed
     * Is that possible with the type of data in consideration?
-  * If not, are there any broader harms to society that could result from the widespread use of this research?
+* Are there any broader harms to society that could result from the widespread use of this research?
 * What kind of risk mitigation measures are already in place?
 * What tools/risk assessments can be used to assess risk opportunity impact?
 
